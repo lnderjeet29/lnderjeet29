@@ -7,7 +7,6 @@
 - ✍️ &nbsp; Pursuing MCA(Master of Computer Application) from Manipal University ,Jaipur.
 - 👀 &nbsp; I’m interested in Data Structures and Algorithms,competitive programming in Java, Java backend development and Android Development.
 - 🌱 &nbsp; I’m currently learning Java Backend Development.
-- 😄 &ndsp; Pronouns: Jeet
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
