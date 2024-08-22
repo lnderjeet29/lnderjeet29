@@ -22,6 +22,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+  ![AWS](https://img.shields.io/badge/-aws-333333?style=flat&logo=AWS)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
