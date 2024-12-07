@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; Pursuing MCA(Master of Computer Application) from Manipal University ,Jaipur.
-- 👀 &nbsp; I’m interested in Data Structures and Algorithms,competitive programming in Java, Java backend development and Android Development.
+- ✍️ &nbsp; MCA(Master of Computer Application) from Manipal University ,Jaipur.
+- 👀 &nbsp; I’m interested in Data Structures and Algorithms, competitive programming in Java, Java backend development and Android Development.
 - 🌱 &nbsp; I’m currently learning Java Backend Development.
 - 📫 &nbsp; How to reach me <a href="inderjeetdev33@gmail.com">inderjeetdev33@gmail.com
 <h3> 🛠 &nbsp;Tech Stack</h3>
